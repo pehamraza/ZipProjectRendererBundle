@@ -21,7 +21,7 @@
     ],
     "extra": {
         "kimai": {
-            "require": "1.6",
+            "require": 16000,
 			"version": "0.8",
             "name": "ZipProjectRendererBundle"
         }
